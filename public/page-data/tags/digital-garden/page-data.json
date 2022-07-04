@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-jsx",
+    "path": "/tags/digital-garden",
+    "result": {"data":{"allMdx":{"totalCount":2,"edges":[{"node":{"excerpt":"Pour devenir bon il doit comprendre les algorithmes. Il a compris les fonctions. -> Install VsCode + Python. compétences visés de…","fields":{"slug":"/le-codex","title":"Le Codex","date":"2022-05-13T14:43:23.383Z","excerpt":null},"frontmatter":{"tags":["projet","digital-garden","web","creative-coding"]}}},{"node":{"excerpt":"","fields":{"slug":"/obsidian","title":"Obsidian","date":"2022-05-14T13:58:50.171Z","excerpt":null},"frontmatter":{"tags":["projet","digital-garden","web","creative-coding"]}}}]}},"pageContext":{"tag":"digital-garden","pageNumber":0,"humanPageNumber":1,"skip":0,"limit":10,"numberOfPages":1,"previousPagePath":"","nextPagePath":""}},
+    "staticQueryHashes": ["1408915841","342892192"]}

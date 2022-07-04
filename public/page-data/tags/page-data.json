@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-list-jsx",
+    "path": "/tags",
+    "result": {"data":{"allMdx":{"group":[{"fieldValue":"apprentissage","totalCount":2},{"fieldValue":"case-study","totalCount":5},{"fieldValue":"creative-coding","totalCount":2},{"fieldValue":"design","totalCount":2},{"fieldValue":"digital-garden","totalCount":2},{"fieldValue":"projet","totalCount":7},{"fieldValue":"web","totalCount":3}]}},"pageContext":{}},
+    "staticQueryHashes": ["1408915841","342892192"]}

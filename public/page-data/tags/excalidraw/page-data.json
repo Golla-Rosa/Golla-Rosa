@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-jsx",
+    "path": "/tags/excalidraw",
+    "result": {"data":{"allMdx":{"totalCount":1,"edges":[{"node":{"excerpt":"==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== Text Elements Conaissance ^PnSe43KB Compréhension ^MX2acONt…","fields":{"slug":"/personalised-self-learn-1","title":"Personalised self learn 1","date":"2022-05-13T15:36:31.686Z","excerpt":null},"frontmatter":{"tags":["excalidraw"]}}}]}},"pageContext":{"tag":"excalidraw","pageNumber":0,"humanPageNumber":1,"skip":0,"limit":10,"numberOfPages":1,"previousPagePath":"","nextPagePath":""}},
+    "staticQueryHashes": ["1408915841","342892192"]}

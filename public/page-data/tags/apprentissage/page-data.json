@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-jsx",
+    "path": "/tags/apprentissage",
+    "result": {"data":{"allMdx":{"totalCount":2,"edges":[{"node":{"excerpt":"","fields":{"slug":"/etre-capable-dimaginer-une-direction-artistique","title":"Devenir directeur artistique","date":"2022-06-14T13:14:27.184Z","excerpt":null},"frontmatter":{"tags":["apprentissage","design"]}}},{"node":{"excerpt":"L'heure de se retrousser les manches Bon, ca à trop duré... J'ai mille et un projet d'applications web ou mobile qui prennent petit à petit…","fields":{"slug":"/devenir-une-bete-en-webdesign","title":"Je deviens un génie du webdesign","date":"2022-06-14T13:40:35.535Z","excerpt":null},"frontmatter":{"tags":["apprentissage","web","design"]}}}]}},"pageContext":{"tag":"apprentissage","pageNumber":0,"humanPageNumber":1,"skip":0,"limit":10,"numberOfPages":1,"previousPagePath":"","nextPagePath":""}},
+    "staticQueryHashes": ["1408915841","342892192"]}

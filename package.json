@@ -1,0 +1,74 @@
+{
+  "name": "gatsby-garden",
+  "version": "2.2.2",
+  "description": "Gatsby Garden lets you create a static html version of your markdown notes. You can convert your Obsidian Zettelkasten Notes into a public Digital Garden.",
+  "homepage": "https://github.com/binnyva/gatsby-garden",
+  "keywords": [
+    "markdown",
+    "mdx",
+    "static-site-generator",
+    "gatsby",
+    "gatsby-plugin",
+    "gatsby-theme",
+    "zettelkasten",
+    "digital-garden",
+    "obsidian"
+  ],
+  "author": "Binny V A <binnyva@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"src/**/*.{js,jsx,ts,tsx,json,md}\"",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@mdx-js/mdx": "^1.6.22",
+    "@mdx-js/react": "^1.6.22",
+    "@tippyjs/react": "^4.2.6",
+    "@types/jest": "^27.5.0",
+    "@types/node": "^17.0.31",
+    "@types/react": "^18.0.9",
+    "@types/react-dom": "^18.0.3",
+    "gatsby": "^4.11.1",
+    "gatsby-awesome-pagination": "^0.3.6",
+    "gatsby-plugin-dark-mode": "^1.1.2",
+    "gatsby-plugin-feed": "^4.5.0",
+    "gatsby-plugin-google-fonts": "^1.0.1",
+    "gatsby-plugin-local-search": "^2.0.1",
+    "gatsby-plugin-mdx": "^3.2.0",
+    "gatsby-plugin-postcss": "^5.0.0",
+    "gatsby-plugin-purgecss": "^6.1.1",
+    "gatsby-plugin-react-helmet": "^5.0.0",
+    "gatsby-plugin-sharp": "^4.4.0",
+    "gatsby-remark-images": "^6.4.0",
+    "gatsby-remark-mermaid": "^2.1.0",
+    "gatsby-remark-obsidian": "^0.5.0",
+    "gatsby-source-filesystem": "^4.4.0",
+    "gatsby-transformer-remark": "^5.2.0",
+    "gatsby-transformer-sharp": "^4.4.0",
+    "postcss": "^8.3.6",
+    "puppeteer": "^13.1.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-graph-vis": "^1.0.7",
+    "react-helmet": "^6.1.0",
+    "react-use-flexsearch": "^0.1.1",
+    "react-vis-network-graph": "^3.0.1",
+    "tippy.js": "^6.3.7",
+    "typescript": "^4.6.4",
+    "unist-util-visit": "^2.0.3"
+  },
+  "devDependencies": {
+    "prettier": "2.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/binnyva/gatsby-garden"
+  },
+  "bugs": {
+    "url": "https://github.com/binnyva/gatsby-garden/issues"
+  }
+}
